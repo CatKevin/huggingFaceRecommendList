@@ -1,0 +1,83 @@
+[
+  {
+    "id": "unsloth/gemma-3-4b-it-GGUF",
+    "author": "unsloth",
+    "path": "gemma-3-4b-it-Q2_K.gguf",
+    "size": 1729164064,
+    "oid": "9356f63fd6417c8b832223cbe696eb432046cd11",
+    "type": "file",
+    "downloadUrl": "https://hf-mirror.com/unsloth/gemma-3-4b-it-GGUF/resolve/main/gemma-3-4b-it-Q2_K.gguf"
+  },
+  {
+    "id": "unsloth/gemma-3-4b-it-GGUF",
+    "author": "unsloth",
+    "path": "gemma-3-4b-it-Q4_K_M.gguf",
+    "size": 2489893664,
+    "oid": "7c24ad8afea96d33c059dd3ad60ec10794fc383b",
+    "type": "file",
+    "downloadUrl": "https://hf-mirror.com/unsloth/gemma-3-4b-it-GGUF/resolve/main/gemma-3-4b-it-Q4_K_M.gguf"
+  },
+  {
+    "id": "unsloth/gemma-3-4b-it-GGUF",
+    "author": "unsloth",
+    "path": "gemma-3-4b-it-Q8_0.gguf",
+    "size": 4130401824,
+    "oid": "a8fb994edd7799d91accd3590664766b47231613",
+    "type": "file",
+    "downloadUrl": "https://hf-mirror.com/unsloth/gemma-3-4b-it-GGUF/resolve/main/gemma-3-4b-it-Q8_0.gguf"
+  },
+  {
+    "id": "unsloth/DeepSeek-R1-Distill-Llama-8B-GGUF",
+    "author": "unsloth",
+    "path": " DeepSeek-R1-Distill-Llama-8B-Q3_K_M.gguf",
+    "size": 4018920160,
+    "oid": " a9ae1acef16abaf3c7d0add92b25f0c8df271e48",
+    "type": "file",
+    "downloadUrl": "https://hf-mirror.com/unsloth/DeepSeek-R1-Distill-Llama-8B-GGUF/resolve/main/DeepSeek-R1-Distill-Llama-8B-Q3_K_M.gguf"
+  },
+  {
+    "id": "unsloth/DeepSeek-R1-Distill-Llama-8B-GGUF",
+    "author": "unsloth",
+    "path": "DeepSeek-R1-Distill-Llama-8B-Q6_K.gguf",
+    "size": 6596008672,
+    "oid": "3416201c91577fe54f5943b3b75c863b2d7c5e8b",
+    "type": "file",
+    "downloadUrl": "https://hf-mirror.com/unsloth/DeepSeek-R1-Distill-Llama-8B-GGUF/resolve/main/DeepSeek-R1-Distill-Llama-8B-Q6_K.gguf"
+  },
+  {
+    "id": "unsloth/DeepSeek-R1-Distill-Llama-8B-GGUF",
+    "author": "unsloth",
+    "path": "DeepSeek-R1-Distill-Llama-8B-Q8_0.gguf",
+    "size": 8540773088,
+    "oid": "a8314f212e1bc0ee3abc87b51a5a1825150f65e8",
+    "type": "file",
+    "downloadUrl": " https://hf-mirror.com/unsloth/DeepSeek-R1-Distill-Llama-8B-GGUF/resolve/main/DeepSeek-R1-Distill-Llama-8B-Q8_0.gguf"
+  },
+  {
+    "id": "unsloth/DeepSeek-R1-Distill-Qwen-7B-GGUF",
+    "author": "unsloth",
+    "path": "DeepSeek-R1-Distill-Qwen-7B-F16.gguf",
+    "size": 15237852896,
+    "oid": "6cdc03f200ad31f3ad892460fa34f65b268884a1",
+    "type": "file",
+    "downloadUrl": "https://hf-mirror.com/unsloth/DeepSeek-R1-Distill-Qwen-7B-GGUF/resolve/main/DeepSeek-R1-Distill-Qwen-7B-F16.gguf"
+  },
+  {
+    "id": "unsloth/DeepSeek-R1-Distill-Qwen-7B-GGUF",
+    "author": "unsloth",
+    "path": "DeepSeek-R1-Distill-Qwen-7B-Q4_K_M.gguf",
+    "size": 4683073248,
+    "oid": "55c91adae8a0ab87d2334657c4137767784259fd",
+    "type": "file",
+    "downloadUrl": "https://hf-mirror.com/unsloth/DeepSeek-R1-Distill-Qwen-7B-GGUF/resolve/main/DeepSeek-R1-Distill-Qwen-7B-Q4_K_M.gguf"
+  },
+  {
+    "id": "unsloth/DeepSeek-R1-Distill-Qwen-7B-GGUF",
+    "author": "unsloth",
+    "path": "DeepSeek-R1-Distill-Qwen-7B-Q8_0.gguf",
+    "size": 8098524896,
+    "oid": "52dbeb5b0bcba7d6171822afe806e318a0c30298",
+    "type": "file",
+    "downloadUrl": "https://hf-mirror.com/unsloth/DeepSeek-R1-Distill-Qwen-7B-GGUF/resolve/main/DeepSeek-R1-Distill-Qwen-7B-Q8_0.gguf"
+  }
+]
